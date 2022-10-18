@@ -35,6 +35,6 @@ public class Customer {
 		super();
 	}
     
-    
+    // You should use some new annotations to avoid lengthy code.
 
 }
